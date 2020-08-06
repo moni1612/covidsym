@@ -1,0 +1,23 @@
+.card{
+	border:2px solid #ddd;
+	background-color: grey;
+	text-align: center;
+	width: 300px;
+	margin:5px;
+
+}
+
+/*{
+    background-image: url(../images/profile.png);
+    background-repeat:no-repeat;
+}*/
+a{
+	color:#c45e45;
+}
+img{
+	width:300px;
+}
+.flex-parent{
+	display:flex;
+	
+}
